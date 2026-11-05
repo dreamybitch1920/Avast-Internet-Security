@@ -208,4 +208,4 @@ Avast Internet Security is provided as a complete free version with all features
 Take control of your online security today! Download Avast Internet Security for a safe and secure browsing experience.
 
 ---
-**Last updated:** 2026-11-04 22:24:44 UTC
+**Last updated:** 2026-11-05 03:10:14 UTC
